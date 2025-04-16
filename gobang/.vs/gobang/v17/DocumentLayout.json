@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\\u8BED\u8A00\u5C1D\u8BD5\\c#\u5C1D\u8BD5\\gobang\\gobang\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\\u8BED\u8A00\u5C1D\u8BD5\\c#\u5C1D\u8BD5\\gobang\\gobang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\\u8BED\u8A00\u5C1D\u8BD5\\c#\u5C1D\u8BD5\\gobang\\gobang\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\\u8BED\u8A00\u5C1D\u8BD5\\c#\u5C1D\u8BD5\\gobang\\gobang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\\u8BED\u8A00\u5C1D\u8BD5\\c#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\gobang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\UserControl1.cs",
+              "RelativeDocumentMoniker": "gobang\\UserControl1.cs",
+              "ToolTip": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\UserControl1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gobang\\UserControl1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:58:52.659Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "consts.cs",
+              "DocumentMoniker": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\consts.cs",
+              "RelativeDocumentMoniker": "gobang\\consts.cs",
+              "ToolTip": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\consts.cs",
+              "RelativeToolTip": "gobang\\consts.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:58:13.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\Form1.cs",
+              "RelativeDocumentMoniker": "gobang\\Form1.cs",
+              "ToolTip": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gobang\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:58:09.58Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\Program.cs",
+              "RelativeDocumentMoniker": "gobang\\Program.cs",
+              "ToolTip": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\Program.cs",
+              "RelativeToolTip": "gobang\\Program.cs",
+              "ViewState": "AgIAAAYDAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:51:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gobang",
+              "DocumentMoniker": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj",
+              "RelativeDocumentMoniker": "gobang\\gobang.csproj",
+              "ToolTip": "D:\\\u8BED\u8A00\u5C1D\u8BD5\\C#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj",
+              "RelativeToolTip": "gobang\\gobang.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T13:05:54.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

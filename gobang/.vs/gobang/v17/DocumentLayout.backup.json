@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\u5C1D\u8BD5\\gobang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|d:\\c#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18FEC101-1F04-490E-90B0-D68D0D40F2B5}|gobang\\gobang.csproj|solutionrelative:gobang\\gobang.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gobang",
+              "DocumentMoniker": "D:\\C#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj",
+              "RelativeDocumentMoniker": "gobang\\gobang.csproj",
+              "ToolTip": "D:\\C#\u5C1D\u8BD5\\gobang\\gobang\\gobang.csproj",
+              "RelativeToolTip": "gobang\\gobang.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T13:05:54.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
